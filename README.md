@@ -1,2 +1,2 @@
-# fraud_models
+# fraud models
 The repo for all the fraud models
